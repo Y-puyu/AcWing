@@ -22,11 +22,12 @@
 | |[差分](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit1-basic-algorithm/difference.cpp)|模板|
 | |[差分矩阵](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit1-basic-algorithm/2_difference.cpp)|模板|
 |双指针算法| |
-| |[最长连续不重复子序列](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit1-basic-algorithm/2_difference.cpp)
-| |[数组元素的目标和](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit1-basic-algorithm/2_difference.cpp)
+| |[最长连续不重复子序列](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit1-basic-algorithm/two_point.cpp)
+| |[数组元素的目标和](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit1-basic-algorithm/two_sum.cpp)
 |位运算|
-| |[二进制中1的个数](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit1-basic-algorithm/2_difference.cpp)
+| |[二进制中1的个数](https://github.com/Y-puyu/AcWing/commit/7876a3f3859b47be0e49643b3f7e2c8c5a815bc8)
 |离散化| |
-| |[区间和](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit1-basic-algorithm/2_difference.cpp)
+| |[区间和](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit1-basic-algorithm/interval_sum.cpp)
 |区间合并| |
-| |[区间合并](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit1-basic-algorithm/2_difference.cpp)
+| |[区间合并](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit1-basic-algorithm/interval_merge.cpp)
+| |[格子染色](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit1-basic-algorithm/interval_merge.cpp)

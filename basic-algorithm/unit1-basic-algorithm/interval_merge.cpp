@@ -22,12 +22,13 @@ void merge(vector<PII> &a) {
         if (ed < e.first) {     // 无交集，找到了新区间
             if (st != -2e9) res.push_back({st, ed});    // 不能是初始区间
             
-            st = e.first, ed = e.second;
+            st = e.first, ed = e.second;    // 新区间是初始区间，更新左右端点
         }
         else ed = max(ed, e.second);    
     }
     
-    if (st != -2e9) res.push_back({st, ed}); // 防止空区间
+    // 加入最后一个区间，且防止是空区间情况
+    if (st != -2e9) res.push_back({st, ed}); 
     
     a = res;
 }
