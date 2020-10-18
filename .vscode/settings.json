@@ -2,5 +2,9 @@
     "files.associations": {
         "ostream": "cpp",
         "iostream": "cpp"
-    }
+    },
+    "editor.wordWrap": "on",
+    "go.formatTool": "goimports",
+    "go.formatOnSave": true,
+    "go.coverOnSave": true
 }
