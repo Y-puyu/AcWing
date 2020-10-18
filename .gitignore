@@ -1,4 +1,4 @@
 /test-cpp
 *.exe
 /.vscode
-/.gitignore
+.gitignore
