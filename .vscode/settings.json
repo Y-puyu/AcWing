@@ -6,5 +6,6 @@
     "editor.wordWrap": "on",
     "go.formatTool": "goimports",
     "go.formatOnSave": true,
-    "go.coverOnSave": true
+    "go.coverOnSave": true,
+    "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: LLVM, UseTab: Never, IndentWidth: 4}"
 }
