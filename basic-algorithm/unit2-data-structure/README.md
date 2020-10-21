@@ -2,9 +2,9 @@
 
 |考点|题号|考点|
 |--|--|--|
-|快速排序|
-| |[快速排序](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit1-basic-algorithm/quick_sort.cpp)|快排模板|
-| |[第k个数](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit1-basic-algorithm/partation.cpp)|快排经典应用+快速选择算法|
+|链表|
+| |[单链表](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit1-basic-algorithm/quick_sort.cpp)|单链表模板|
+| |[双链表](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit1-basic-algorithm/partation.cpp)|快排经典应用+快速选择算法|
 |归并排序|
 | |[归并排序](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit1-basic-algorithm/merge_sort.cpp)|归并模板|
 | |[逆序对的数量](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit1-basic-algorithm/merge_inversion.cpp)|归并经典应用|
