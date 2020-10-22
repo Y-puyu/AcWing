@@ -12,3 +12,16 @@
 | |[单调队列](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit2-data-structure/monotonic_queue.cpp)|模板题|
 |kmp|
 | |[kmp](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit2-data-structure/kmp.cpp)|模板|
+|Trie|
+| |[Trie字符串统计](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit2-data-structure/tire.cpp)|模板|
+| |[最大异或对](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit2-data-structure/largest_XOR_pair.cpp)|经典变种题|
+|并查集|
+| |[合并集合](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit2-data-structure/dsu.cpp)|模板|
+| |[连通块中点的数量](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit2-data-structure/number_of_points_in_connected_blocks.cpp)|维护并查集点数量|
+| |[食物链](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit2-data-structure/kmp.cpp)|模板|
+|堆|
+| |[堆排序](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit2-data-structure/heap_sort.cpp)|模板|
+| |[模拟堆](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit2-data-structure/simulated_heap.cpp)|支持删除+维护位置关系的两个数组+模板|
+|哈希表|
+| |[模拟散列表](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit2-data-structure/simulated_hash_table.cpp)|模板|
+| |[字符串哈希](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit2-data-structure/string_hash.cpp)|模板+经典方法|
