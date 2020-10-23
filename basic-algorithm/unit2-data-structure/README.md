@@ -18,7 +18,7 @@
 |并查集|
 | |[合并集合](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit2-data-structure/dsu.cpp)|模板|
 | |[连通块中点的数量](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit2-data-structure/number_of_points_in_connected_blocks.cpp)|维护并查集点数量|
-| |[食物链](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit2-data-structure/kmp.cpp)|模板|
+| |[食物链](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit2-data-structure/kmp.cpp)|带权并查集+经典|
 |堆|
 | |[堆排序](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit2-data-structure/heap_sort.cpp)|模板|
 | |[模拟堆](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit2-data-structure/simulated_heap.cpp)|支持删除+维护位置关系的两个数组+模板|
