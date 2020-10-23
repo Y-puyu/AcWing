@@ -13,7 +13,7 @@
 |kmp|
 | |[kmp](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit2-data-structure/kmp.cpp)|模板|
 |Trie|
-| |[Trie字符串统计](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit2-data-structure/tire.cpp)|模板|
+| |[Trie字符串统计](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit2-data-structure/trie.cpp)|模板|
 | |[最大异或对](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit2-data-structure/largest_XOR_pair.cpp)|经典变种题|
 |并查集|
 | |[合并集合](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit2-data-structure/dsu.cpp)|模板|
