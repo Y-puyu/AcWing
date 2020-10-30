@@ -14,20 +14,20 @@
 |拓扑排序|
 | |[有向图的拓扑序列](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit3-search-and-graph/topological_sequence.cpp)|拓扑排序模板|
 |Dijkstra|
-| |[Dijkstra求最短路 I](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit2-data-structure/trie.cpp)|模板|
-| |[Dijkstra求最短路 II](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit2-data-structure/largest_XOR_pair.cpp)|经典变种题|
+| |[Dijkstra求最短路 I](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit3-search-and-graph/dijkstra1.cpp)|模板|
+| |[Dijkstra求最短路 II](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit3-search-and-graph/dijkstra2.cpp)|堆优化模板|
 |bellman-ford|
-| |[有边数限制的最短路](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit2-data-structure/dsu.cpp)|模板|
+| |[有边数限制的最短路](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit3-search-and-graph/bellman_ford.cpp)|经典+k步内最短路|
 |spfa|
-| |[spfa求最短路](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit2-data-structure/kmp.cpp)|带权并查集+经典|
-| |[spfa判断负环](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit2-data-structure/kmp.cpp)|带权并查集+经典|
+| |[spfa求最短路](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit3-search-and-graph/spfa.cpp)|模板|
+| |[spfa判断负环](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit3-search-and-graph/spfa_judge.cpp)|模板|
 |Floyd|
-| |[Floyd求最短路](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit2-data-structure/heap_sort.cpp)|模板|
+| |[Floyd求最短路](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit3-search-and-graph/floyd.cpp)|模板|
 |Prim|
-| |[Prim算法求最小生成树](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit2-data-structure/simulated_heap.cpp)|支持删除+维护位置关系的两个数组+模板|
+| |[Prim算法求最小生成树](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit3-search-and-graph/prim.cpp)|模板|
 |Kruskal|
-| |[Kruskal算法求最小生成树](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit2-data-structure/simulated_hash_table.cpp)|模板|
+| |[Kruskal算法求最小生成树](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit3-search-and-graph/kruskal.cpp)|模板|
 |染色法判定二分图|
-| |[染色法判定二分图](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit2-data-structure/string_hash.cpp)|模板+经典方法|
+| |[染色法判定二分图](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit3-search-and-graph/dyeing_method.cpp)|模板+bfs+dfs|
 |匈牙利算法|
-| |[二分图的最大匹配](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit2-data-structure/string_hash.cpp)|模板+经典方法|
+| |[二分图的最大匹配](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit3-search-and-graph/max_matching_2graph.cpp)|模板|
