@@ -23,14 +23,14 @@
 |中国剩余定理|
 | |[表达整数的奇怪方式](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit2-data-structure/dsu.cpp)|数论困难问题+经典|
 |高斯消元|
-| |[高斯消元解线性方程组](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit2-data-structure/kmp.cpp)|模板|
-| |[高斯消元解异或线性方程组](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit2-data-structure/kmp.cpp)|带权并查集+经典|
+| |[高斯消元解线性方程组](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit2-data-structure/kmp.cpp)|数学+模板|
+| |[高斯消元解异或线性方程组](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit2-data-structure/kmp.cpp)|数学+高斯消元变种|
 |求组合数|
-| |[求组合数 I](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit2-data-structure/heap_sort.cpp)|模板|
-| |[求组合数 II](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit2-data-structure/heap_sort.cpp)|模板|
-| |[求组合数 III](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit2-data-structure/heap_sort.cpp)|模板|
-| |[求组合数 IV](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit2-data-structure/heap_sort.cpp)|模板|
-| |[满足条件的01序列](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit2-data-structure/heap_sort.cpp)|模板|
+| |[求组合数 I](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit2-data-structure/heap_sort.cpp)|预处理组合数+组合递推式|
+| |[求组合数 II](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit2-data-structure/heap_sort.cpp)|预处理阶乘+逆元|
+| |[求组合数 III](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit2-data-structure/heap_sort.cpp)|卢卡斯定理|
+| |[求组合数 IV](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit2-data-structure/heap_sort.cpp)|高精度组合数|
+| |[满足条件的01序列](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit2-data-structure/heap_sort.cpp)|卡特兰数|
 |容斥原理|
 | |[能被整除的数](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit2-data-structure/simulated_heap.cpp)|支持删除+维护位置关系的两个数组+模板|
 |博弈论|
