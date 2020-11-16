@@ -25,6 +25,6 @@
 | |[蒙德里安的梦想](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit5-dp/mondrian's_dream.cpp)||
 | |[最短Hamilton路径](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit5-dp/shortest_hamilton_path.cpp)||
 |树形DP|
-| |[没有上司的舞会](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit2-data-structure/dsu.cpp)||
+| |[没有上司的舞会](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit5-dp/dance_without_boss.cpp)||
 |记忆化搜索|
-| |[滑雪](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit2-data-structure/kmp.cpp)||
+| |[滑雪](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit5-dp/skiing.cpp)||
