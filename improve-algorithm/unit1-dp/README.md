@@ -1,6 +1,6 @@
 ## AcWing
 
-|考点|题号|考点|CSDN链接|
+|考点|题号|考点||
 |--|--|--|--|
 |数字三角形模型|
 | |[1015. 摘花生](https://github.com/Y-puyu/AcWing/blob/master/basic-algorithm/unit5-dp/01_knapsack_problem.cpp)||
