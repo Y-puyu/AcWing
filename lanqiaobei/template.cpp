@@ -1,45 +1,39 @@
+#include <cstdio>
+#include <cstdlib>
+#include <ctime>
+#include <cmath>
+#include <climits>
+#include <string>
+#include <cstring>
+#include <bitset> 
+#include <vector>
+#include <queue>
+#include <stack>
+#include <set>
+#include <map>
+#include <iomanip>
 #include <iostream>
+#include <algorithm>
+
+#define IOS ios::sync_with_stdio(0); cin.tie(0); cout.tie(0);
+#define PI  acos(-1)
+#define x first
+#define y second
 
 using namespace std;
 
-struct ListNode {
-    int val;
-    ListNode *next;
-    ListNode(int x) : val(x), next(nullptr) {}
-    ListNode (int x, ListNode *next) : val(x), next(next) {}
-};
+typedef long long LL;
+typedef pair<int, int> PII;
+typedef pair<long, long> PLL;
 
-struct TreeNode {
-    int val;
-    TreeNode *left;
-    TreeNode *right;
-    TreeNode() : val(0), left(nullptr), right(nullptr) {}
-    TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
-    TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
-};
+const int INF = 0x3f3f3f3f;
+int mod = 1e9 +7;
 
 
-void my_memcpy(void *dst, const void *src, int size) {
-    char *d = (char*)dst;
-    const char *s = (char*)src;
-    while (size--) *d++ = *s++;
-}
 
-int main() {
 
-    ios::sync_with_stdio(0);
-    cin.tie(0);
-
-    int arr1[5] = {1, 2, 3, 4, 5};
-    int arr2[5];
-
-    my_memcpy(arr2, arr1, 20);
-
-    for (int i = 0; i < 5; ++i) {
-        cout << arr2[i] << ' ';
-    }
-    cout << endl;
-
+int main(){
+    IOS;
 
 
 
